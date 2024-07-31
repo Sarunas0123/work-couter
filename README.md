@@ -1,2 +1,2 @@
 # work-couter
-Project to make counting work profits easier 
+Project to make counting work hours easier 
